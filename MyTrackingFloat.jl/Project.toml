@@ -1,0 +1,4 @@
+name = "MyTrackingFloat"
+uuid = "510770a9-44f9-44e0-9bf9-4ae82eab2b8b"
+authors = ["Frida-Norlund <82037342+Frida-Norlund@users.noreply.github.com>"]
+version = "0.1.0"
